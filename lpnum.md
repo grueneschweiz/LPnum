@@ -2,7 +2,7 @@ RS xxx
 
 # Loi fédérale sur les plateformes numériques (LPnum)
 
-du xx xxxxxx xxxx
+du xx xxxxxx xxxxx
 
 L'Assemblée fédérale de la Confédération suisse,
 

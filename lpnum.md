@@ -12,13 +12,13 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-#### Art. 1 But
+#### Art. 1 But | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/2)
 
 <sup>1</sup>La présente loi vise à garantir un environnement en ligne sûr, transparent et fiable, à lutter contre la diffusion de contenus illicites, à protéger la liberté d'expression, à contenir la propagation de fausses informations et à protéger les processus démocratiques.
 
 <sup>2</sup>Elle contribue à protéger la personnalité et les droits fondamentaux des personnes physiques et morales recourant aux services des plateformes numériques. Elle vise tout particulièrement la protection des mineurs.
 
-#### Art. 2 Définitions
+#### Art. 2 Définitions | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/3)
 
 On entend par :
 
@@ -38,7 +38,7 @@ e. faux compte : compte d'utilisateur d'une plateforme qui utilise l'identité d
 
 f. publicité commerciale : annonce à vocation commerciale diffusée sur une plateforme numérique visant à favoriser la conclusion d'un acte juridique concernant des biens ou des services ou à produire tout autre effet souhaité par l'annonceur en échange d'une rémunération ou d'une autre contrepartie, ou dans un but d'autopromotion ;
 
-#### Art. 3 Champ d'application
+#### Art. 3 Champ d'application | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/4)
 
 <sup>1</sup>La présente loi s'applique à toutes les plateformes numériques utilisées par des personnes physiques ou morales qui se trouvent en Suisse, quel que soit le lieu d'établissement de l'opérateur de la plateforme numérique concernée.
 
@@ -46,7 +46,7 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 ## Chapitre 2 Principes généraux
 
-#### Art. 4 Préservation des processus démocratiques
+#### Art. 4 Préservation des processus démocratiques | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/5)
 
 <sup>1</sup>Tout utilisateur a le droit de partager, diffuser ou rechercher librement des informations sur une plateforme numérique, sous réserve des restrictions apportées par la présente loi.
 
@@ -54,13 +54,13 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 <sup>3</sup>Les opérations coordonnées destinées à créer de l'information trompeuse ou fallacieuse ou à amplifier artificiellement l'information, y compris la désinformation, au moyen de l'utilisation de robots ou de faux comptes, sont réputées porter atteinte aux processus démocratiques ou à la libre formation de l'opinion, sauf preuve du contraire.
 
-#### Art. 5 Indépendance vis-à-vis de l'Etat
+#### Art. 5 Indépendance vis-à-vis de l'Etat | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/6)
 
 <sup>1</sup>L'indépendance des plateformes numériques vis-à-vis de l'Etat est garantie.
 
 <sup>2</sup>L'Etat s'abstient de toute intervention directe sur les informations disponibles sur les plateformes numériques. L'Etat peut néanmoins lui-même communiquer sur les plateformes numériques, notamment des informations officielles, et peut dans ce cadre mener des opérations coordonnées destinées à lutter contre la désinformation. Les actions judiciaires prévues par la présente loi et d'autres lois demeurent également réservées.
 
-#### Art. 6 Interdiction des contenus illicites
+#### Art. 6 Interdiction des contenus illicites | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/7)
 
 <sup>1</sup>Toute information qui constitue un contenu illicite hors ligne est reputée représenter un contenu illicite en ligne, sauf preuve du contraire.
 
@@ -70,7 +70,7 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 ## Chapitre 3 Préposé fédéral
 
-#### Art. 7 Nomination, organisation et tâches
+#### Art. 7 Nomination, organisation et tâches | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/8)
 
 <sup>1</sup>L'Assemblée fédérale (Chambres réunies) nomme un Préposé fédéral au numérique (Préposé ; PFN).
 
@@ -78,7 +78,7 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 <sup>3</sup>Le Préposé relève de l'Office fédéral de la Justice et dispose de collaborateurs.
 
-#### Art. 8 Surveillance et recommandations
+#### Art. 8 Surveillance et recommandations | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/9)
 
 <sup>1</sup>Le Préposé est chargé de surveiller la bonne application de la présente loi et de toutes les dispositions fédérales ayant trait à la protection des droits fondamentaux en ligne. Le Préposé ne peut exercer aucune influence directe sur les contenus mis en ligne sur les plateformes numériques, sous réserve des dispositions qui suivent.
 
@@ -88,7 +88,7 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 <sup>4</sup>Le Préposé renseigne le public au sujet de ses activités et de l'application de la présente loi par les opérateurs, notamment en émettant un rapport bisannuel. Dans le cadre de l'élaboration de son rapport, il consulte les milieux scientifiques et les organisations de la société civile intéressées. Ce rapport est transmis à l'Assemblée fédérale, laquelle en débat et en prend acte.
 
-#### Art. 9 Compétences en cas de violations de la loi
+#### Art. 9 Compétences en cas de violations de la loi | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/10)
 
 <sup>1</sup>Si des dispositions de la présente loi sont violées, après avoir préalablement tenté de résoudre le litige par la voie amiable avec l'opérateur, le Préposé peut ordonner la modification ou la suppression de tout contenu illicite ou susceptible de porter atteinte aux processus démocratiques. Il peut également ordonner d'apposer une mention ou un avertissement sur ces contenus de façon visible par tout utilisateur.
 
@@ -102,7 +102,7 @@ f. publicité commerciale : annonce à vocation commerciale diffusée sur une pl
 
 <sup>6</sup>Le Préposé rend des décisions au sujet de l'accès aux données conformément aux art. xx de la présente loi. La procédure est gratuite. Ses décisions sont sujettes à recours devant le Tribunal administratif fédéral. La procédure de recours est régie par les dispositions générales de la procédure administrative fédérale.
 
-#### Art. 10 Mesures administratives
+#### Art. 10 Mesures administratives | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/11)
 
 <sup>1</sup>Lorsqu'un opérateur ne respecte pas son obligation de collaborer ou de donner accès aux données au sens de la présente loi, le Préposé peut ouvrir une procédure d'enquête. Dans le cadre de la procédure d'enquête, il peut ordonner notamment :
 
@@ -122,13 +122,13 @@ d. des expertises.
 
 ### Section 1 Modération des contenus
 
-#### Art. 11 Principe
+#### Art. 11 Principe | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/12)
 
 <sup>1</sup>Les opérateurs des plateformes numériques mettent en place des processus de modération de contenus dans le but de contribuer au respect des objectifs et principes de la présente loi.
 
 <sup>2</sup>Les processus de modération des contenus peuvent être automatisés ou non. Ils servent en particulier à détecter et à identifier autant que possibles les contenus illicites et les informations portant atteinte aux processus démocratiques ou entravant la libre formation de l'opinion.
 
-#### Art. 12 Mesures
+#### Art. 12 Mesures | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/13)
 
 <sup>1</sup>Le système de modération des contenus mis en place par l'opérateur agit sur la disponibilité, la visibilité et l'accessibilité de ces contenus ou ces informations. Il utilise des procédés tels que la restriction de visibilité ou d'accessibilité, le déclassement du contenu en question ou son retrait pur et simple.
 
@@ -140,13 +140,13 @@ d. des expertises.
 
 <sup>5</sup>En tous les cas, il justifie auprès de l'utilisateur affecté la mesure prise, lui confère la possibilité d'une réponse personnalisée et non automatisée et lui indique la possibilité de saisir l'autorité judiciaire pour faire valoir ses droits.
 
-#### Art. 13 Sécurité en ligne
+#### Art. 13 Sécurité en ligne | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/14)
 
 Les opérateurs prennent des mesures spécifiques destinées à lutter contre toutes infractions commises en ligne.
 
 ### Section 2 Système de notification et action
 
-#### Art. 14 Signalement et point de contact électronique
+#### Art. 14 Signalement et point de contact électronique | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/15)
 
 <sup>1</sup>Les opérateurs mettent en place des mécanismes permettant à tout utilisateur de leur signaler la présence sur la plateforme numérique d'une information qu'il considère comme du contenu illicite ou comme susceptible de porter atteinte aux processus démocratiques. De même, tout utilisateur doit pouvoir signaler une suspicion d'utilisation de robot ou de faux compte sur une plateforme numérique.
 
@@ -154,7 +154,7 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 <sup>3</sup>S'il dispose des coordonnées de la personne ayant procédé au signalement, l'opérateur en accuse réception immédiatement et la tient informée des mesures prises.
 
-#### Art. 15 Traitement du signalement et mesures
+#### Art. 15 Traitement du signalement et mesures | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/16)
 
 <sup>1</sup>L'opérateur traite tout signalement dans les meilleurs délais, mais au plus tard dans les 24 heures, et avec diligence. Si cela est compatible avec ces impératifs, le traitement des signalements peut être totalement ou partiellement automatisé.
 
@@ -168,13 +168,13 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 <sup>6</sup>En cas de suspicion d'infraction pénale poursuivie d'office, l'opérateur procède à une dénonciation aux autorités de poursuite pénale compétentes.
 
-#### Art. 16 Signalement sans suites
+#### Art. 16 Signalement sans suites | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/17)
 
 <sup>1</sup>Lorsqu'un opérateur ne donne aucune suite à un signalement, il en informe dans les meilleurs délais mais au plus tard dans les 24 heures la personne ayant procédé au signalement.
 
 <sup>2</sup>Il justifie l'absence de mesure prise auprès de la personne ayant procédé au signalement, lui confère la possibilité d'obtenir une réponse personnalisée et non automatisée et lui indique la possibilité de saisir l'autorité judiciaire pour faire valoir ses droits.
 
-#### Art. 17 Droit de réponse
+#### Art. 17 Droit de réponse | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/18)
 
 <sup>1</sup>En plus du signalement régi par les dispositions qui précède, tout utilisateur concerné par un contenu dispose d'un droit de réponse.
 
@@ -184,13 +184,13 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 <sup>4</sup>Pour le surplus, le droit de réponse est régi par les dispositions du code civil.
 
-#### Art. 18 Conservation du contenu contesté
+#### Art. 18 Conservation du contenu contesté | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/19)
 
 <sup>1</sup>En cas de signalement ou de demande de droit de réponse, l'opérateur conserve le contenu contesté et les communications y relatives pendant un délai de 6 mois.
 
 <sup>2</sup>Les utilisateurs concernés disposent d'un droit d'accès à ces données. En l'absence de réponse ou en cas de refus de transmission des données, le requérant peut saisir le Préposé, lequel rend une décision concernant le droit d'accès aux données du requérant. L'opérateur conserve les données en question pendant toute la durée de la procédure.
 
-#### Art. 19 Résolution amiable et indication des voies de droit
+#### Art. 19 Résolution amiable et indication des voies de droit | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/20)
 
 <sup>1</sup>Si cela s'avère pertinent et moyennant son accord, l'opérateur met en contact la personne ayant procédé au signalement et l'utilisateur dont le contenu a été signalé en vue d'une résolution amiable du litige.
 
@@ -198,7 +198,7 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 ### Section 3 Transparence et sélection des contenus
 
-#### Art. 20 Transparence des algorithmes et des paramètres
+#### Art. 20 Transparence des algorithmes et des paramètres | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/21)
 
 <sup>1</sup>Les opérateurs présentent, de façon accessible et visible et dans un langage simple et compréhensible pour l'utilisateur, les algorithmes ou paramètres utilisés pour la sélection des informations et contenus qui lui sont fournis sur une plateforme numérique.
 
@@ -206,13 +206,13 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 <sup>3</sup>Les opérateurs prévoient sur chaque plateforme une fonctionnalité permettant à chaque utilisateur de choisir les critères principaux et leur pondération déterminant les informations et contenus sélectionnés. En particulier, l'utilisateur a un droit d'accès à la plateforme sans sélection ou individualisation du contenu.
 
-#### Art. 21 Publication des conditions générales et explications aux utilisateurs
+#### Art. 21 Publication des conditions générales et explications aux utilisateurs | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/22)
 
 <sup>1</sup>Les opérateurs publient dans les quatre langues nationales, de façon accessible et visible et dans un langage simple et compréhensible pour l'utilisateur, leurs conditions générales.
 
 <sup>2</sup>Les opérateurs prennent des dispositions particulières pour exposer aux utilisateurs les droits dont ils sont titulaires en vertu de la présente loi, notamment la procédure de notification et action. Ils utilisent pour ce faire des éléments graphiques tels que des icônes, des images ou des schémas pour en illustrer les principaux mécanismes et délais.
 
-#### Art. 22 Accès aux données
+#### Art. 22 Accès aux données | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/23)
 
 <sup>1</sup>Les opérateurs garantissent l'accès à leurs données pour la recherche d'intérêt public ayant pour but l'étude des risques systémiques liés aux plateformes numériques.
 
@@ -224,11 +224,11 @@ Les opérateurs prennent des mesures spécifiques destinées à lutter contre to
 
 <sup>5</sup>En l'absence de réponse dans le délai imparti ou en cas de refus de transmission des données, le requérant peut saisir le préposé au numérique, lequel rend une décision concernant le droit d'accès aux données du requérant.
 
-#### Art. 23 Interdiction des interfaces trompeuse
+#### Art. 23 Interdiction des interfaces trompeuse | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/24)
 
 Les opérateurs bannissent de leur plateforme numérique toute forme d'interface trompeuse (dark pattern) portant atteinte au choix libre et éclairé de l'utilisateur.
 
-#### Art. 24 Contenus générés avec l'intelligence artificielle
+#### Art. 24 Contenus générés avec l'intelligence artificielle | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/25)
 
 <sup>1</sup>Les contenus générés par ou avec l'aide de l'intelligence artificielle sont clairement identifiés et reconnaissables comme tels lorsqu'ils présent un caractère trompeur.
 
@@ -238,7 +238,7 @@ Les opérateurs bannissent de leur plateforme numérique toute forme d'interface
 
 ### Section 4 Publicité commercialeet protection des mineurs
 
-#### Art. 25 Mesures spécifiques concernant la publicité
+#### Art. 25 Mesures spécifiques concernant la publicité | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/26)
 
 <sup>1</sup>La publicité commerciale figurant sur une plateforme en ligne doit être clairement identifiée comme telle, tout comme l'identité de la personne physique ou morale pour le compte de laquelle la publicité est présentée.
 
@@ -248,7 +248,7 @@ Les opérateurs bannissent de leur plateforme numérique toute forme d'interface
 
 <sup>4</sup>La publicité commerciale qui repose sur du profilage utilisant des données personnelles sensible au sens de la loi fédérale sur la protection des données est prohibée.
 
-#### Art. 26 Mesures spécifiques concernant la protection des mineurs
+#### Art. 26 Mesures spécifiques concernant la protection des mineurs | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/27)
 
 <sup>1</sup>Les informations disponibles sur les plateformes numériques ne doivent pas nuire au développement physique, mental, moral ou social des mineurs.
 
@@ -272,7 +272,7 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 ### Section 5 Représentant des opérateurs en Suisse
 
-#### Art. 27 Obligation de constituer un représentant
+#### Art. 27 Obligation de constituer un représentant | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/28)
 
 <sup>1</sup>Tout opérateur doit constituer une Suisse une entité ayant la personnalité juridique.
 
@@ -280,13 +280,13 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 ### Section 6 Très grandes plateformes
 
-#### Art. 28 Définition
+#### Art. 28 Définition | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/29)
 
 <sup>1</sup>Sont considérés comme des opérateurs de très grandes plateformes ceux qui sont définis comme tels par le règlement (UE) 2022/2065.
 
 <sup>2</sup>En sus de toutes les obligations découlant de la présente loi, ces opérateurs sont soumis aux obligations suivantes.
 
-#### Art. 29 Risques et obligation d'établir un rapport
+#### Art. 29 Risques et obligation d'établir un rapport | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/30)
 
 <sup>1</sup>Les opérateurs des très grandes plateformes évaluent les risques systémiques liés à leurs activités, en particulier les risques de diffusion de contenus illicites, d'atteintes aux processus démocratiques, de menaces pour la santé des mineurs et de violences en ligne, en particulier les discriminations et les incitations à la haine.
 
@@ -298,7 +298,7 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 <sup>5</sup>Des audits sont réalisés régulièrement par des organismes tiers indépendants, sur mandat et instructions du Préposé. Dans ce cadre, l'organisme en charge de l'audit dispose d'un droit d'accès complet aux données conformément à l'art. xx de la présente loi.
 
-#### Art. 30 Redevance
+#### Art. 30 Redevance | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/31)
 
 <sup>1</sup>En vue de financer les tâches découlant de la présente loi, les opérateurs des très grandes plateformes s'acquittent auprès de la Confédération d'une redevance annuelle.
 
@@ -308,13 +308,13 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 ## Chapitre 5 Droits des utilisateurs
 
-#### Art. 31 Choix du contenu
+#### Art. 31 Choix du contenu | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/32)
 
 <sup>1</sup>Les utilisateurs ont le droit de choisir les critères principaux et leur pondération déterminant les informations et contenus sélectionnés.
 
 <sup>2</sup>Les utilisateurs ont le droit de connaître les motifs qui ont conduit à la sélection des contenus ou publicités qui leur sont présentés.
 
-#### Art. 32 Signalement et droit à une réponse dans les 24 heures
+#### Art. 32 Signalement et droit à une réponse dans les 24 heures | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/33)
 
 <sup>1</sup>Chaque utilisateurs a le droit de signaler un contenu qu'il considère comme du contenu illicite ou comme susceptible de porter atteinte aux processus démocratiques.
 
@@ -322,13 +322,13 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 <sup>3</sup>Il peut faire valoir ses droits par les actions judiciaires prévues par la présente loi et les autres dispositions légales applicables.
 
-#### Art. 33 Utilisateur dont le contenu est affecté
+#### Art. 33 Utilisateur dont le contenu est affecté | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/34)
 
 <sup>1</sup>Chaque utilisateur dont le contenu est affecté par une mesure prise par un opérateur a le droit d'en connaître les motifs.. Il a le droit d'obtenir une réponse personnalisée et non automatisée à ce sujet dans les 24 heures après l'interpellation de l'opérateur.
 
 <sup>2</sup>Il peut faire valoir ses droits par les actions judiciaires prévues par la présente loi et les autres dispositions légales applicables.
 
-#### Art. 34 Autres droits
+#### Art. 34 Autres droits | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/35)
 
 <sup>1</sup>Chaque utilisateur dispose d'un droit d'accès aux données régi par l'art. xx de la présente loi et d'un droit de réponse régi par l'art. xx de la présente loi.
 
@@ -336,7 +336,7 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 ## Chapitre 6 Actions civiles et responsabilité
 
-#### Art. 35 Principe
+#### Art. 35 Principe | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/36)
 
 <sup>1</sup>Toute personne physique ou morale lésée par un contenu illicite sur une plateforme numérique ou tout utilisateur d'une plateforme numérique peut saisir le juge en agissant contre l'opérateur de celle-ci, représenté par son entité en Suisse au sens de l'art. xx de la présente loi.
 
@@ -346,7 +346,7 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 <sup>3</sup>Les dispositions de la procédure civile sont applicables, notamment celles relatives aux mesures provisionnelles.
 
-#### Art. 36 Responsabilité civile
+#### Art. 36 Responsabilité civile | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/37)
 
 <sup>1</sup>La personne lésée peut agir en dommages et intérêts, tort moral et remise en gain à l'encontre de l'opérateur. L'opérateur répond du dommage causé par une atteinte illicite sur une plateforme numérique solidairement avec la personne ayant causé ou contribué à causer cette atteinte.
 
@@ -356,7 +356,7 @@ e. la mise à disposition de systèmes de notification et d'évaluation.
 
 <sup>4</sup>Toutes les prétentions en dommages-intérêts conférées à la victime par le code des obligations ou par d'autres lois fédérales ou de droit public cantonales sont réservées.
 
-#### Art. 37 For de l'action
+#### Art. 37 For de l'action | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/38)
 
 En cas de litige entre une personne lésée ou un utilisateur, d'une part, et un opérateur, d'autre part, concernant un contenu en ligne, le for de l'action est:
 
@@ -366,7 +366,7 @@ b. celui du domicile du défendeur lorsque l'action est intentée par l'opérate
 
 ## Chapitre 7 Sanctions
 
-#### Art. 38 Violation des obligations du chapitre 4
+#### Art. 38 Violation des obligations du chapitre 4 | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/39)
 
 <sup>1</sup>Sont, sur plainte, punies d'une amende de 500 000 francs au plus les personnes privées qui contreviennent intentionnellement aux obligations prévues au chapitre 4 de la présente loi.
 
@@ -378,7 +378,7 @@ b. celui du domicile du défendeur lorsque l'action est intentée par l'opérate
 
 <sup>5</sup>Lorsque l'enquête rendrait nécessaires à l'égard des personnes punissables selon l'art. 6 DPA des mesures d'instruction hors de proportion avec la peine encourue ou lorsqu'il est impossible de déterminer les personnes punissables selon l'art. 6 DPA, l'autorité peut renoncer à poursuivre ces personnes et condamner l'entreprise (art. 7 DPA) au paiement de l'amende à leur place.
 
-#### Art. 39 Sanctions en cas d'inexécution
+#### Art. 39 Sanctions en cas d'inexécution | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/40)
 
 <sup>1</sup>Le Préposé peut prendre des décisions concernant l'obligation de collaborer et les assortir de sanctions en cas d'inexécution.
 
@@ -392,17 +392,17 @@ c. ordonner l'exécution de la décision par un tiers lorsque c'est pertinent.
 
 ## Chapitre 8 Disposition transitoires et finales
 
-#### Art. 40 Mise en oeuvre
+#### Art. 40 Mise en oeuvre | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/41)
 
 <sup>1</sup>Le Conseil fédéral édicte les dispositions nécessaires à la mise en œuvre de la présente loi.
 
 <sup>2</sup>Il consulte le Préposé, les cantons et les organismes intéressés.
 
-#### Art. 41 Délai pour la constitution d'une entité en Suisse
+#### Art. 41 Délai pour la constitution d'une entité en Suisse | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/42)
 
 Les opérateurs disposent d'un délai d'une année à compter de l'entrée en vigueur de la présente loi pour constituer une entité juridique au sens de l'art. xx de la présente loi.
 
-#### Art. 42 Référendum et entrée en vigueur
+#### Art. 42 Référendum et entrée en vigueur | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/43)
 
 <sup>1</sup>La présente loi est sujette au référendum facultatif.
 
@@ -413,6 +413,6 @@ Les opérateurs disposent d'un délai d'une année à compter de l'entrée en vi
 
 ## Code civil
 
-#### Art. 28g al. 1bis (nouveau)
+#### Art. 28g al. 1bis (nouveau) | [> Discussion](https://github.com/grueneschweiz/LPnum/discussions/44)
 
 Tout utilisateur concerné par un contenu publié sur une plateforme numérique dispose d'un droit de réponse, lequel s'exerce conformément aux dispositions de la loi sur les plateformes numériques.

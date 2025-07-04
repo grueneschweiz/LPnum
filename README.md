@@ -33,7 +33,7 @@ So wirds gemacht:
 - Erstelle ein [GitHub Konto](https://github.com/signup)
 - Nutze die [Diskussionen](https://github.com/grueneschweiz/LPnum/discussions) für Feedback oder [neue Ideen](https://github.com/grueneschweiz/LPnum/discussions/new/choose)
 - Starte einen [Pull Request](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) mit konkreten Änderungsvorschlägen
-- &rarr; Wende dich bei Unklarheiten an gruene@gruene.ch
+- &rarr; Wende dich bei Unklarheiten oder weiterführendem Feedback an gruene@gruene.ch
 
 Du kannst deine Änderungsvorschläge bis Ende Juli einbringen. Wir werden diese danach auswerten und über das weitere Vorgehen informieren
 
@@ -76,7 +76,7 @@ Voici comment procéder:
 - Créez un compte Github
 - Utilisez les [discussions](https://github.com/grueneschweiz/LPnum/discussions) pour donner votre feedback ou proposer de [nouvelles idées](https://github.com/grueneschweiz/LPnum/discussions/new/choose).
 - Soumettez une [pull request](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) avec des propositions de modifications concrètes.
-- &rarr; En cas de doute, veuillez contacter gruene@gruene.ch
+- &rarr; Si vous avez des remarques ou des questions, vous pouvez nous contacter par mail à verts@verts.ch
 
 Vous pouvez soumettre vos propositions de modification jusqu'à fin juillet. Nous les évaluerons ensuite et vous informerons de la suite des événements.
 

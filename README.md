@@ -29,6 +29,7 @@ Wir laden alle ein, sich aktiv einzubringen:
 - Lies den aktuellen [Text](/lpnum_de.md)
 - Nutze die [Diskussionen](https://github.com/grueneschweiz/LPnum/discussions) für Feedback oder [neue Ideen](https://github.com/grueneschweiz/LPnum/discussions/new/choose)
 - Starte einen [Pull Request](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) mit konkreten Änderungsvorschlägen
+- &rarr; Wende dich bei Unklarheiten an gruene@gruene.ch
 
 Voraussichtlich werden wir anfang August weitermachen.
 
@@ -68,6 +69,7 @@ Nous invitons toutes et tous à s'engager activement :
 - Lisez le [texte](/lpnum_fr.md) actuel
 - Utilisez les [discussions](https://github.com/grueneschweiz/LPnum/discussions) pour donner votre feedback ou proposer de [nouvelles idées](https://github.com/grueneschweiz/LPnum/discussions/new/choose).
 - Soumettez une [pull request](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) avec des propositions de modifications concrètes.
+- &rarr; En cas de doute, veuillez contacter gruene@gruene.ch
 
 Nous devrions continuer début août.
 

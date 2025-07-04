@@ -1,4 +1,4 @@
-# Bundesgesetz über digitale Plattformen (PlaG)
+# Entwurf für ein Bundesgesetz über digitale Plattformen (PlaG)
 
 ## Über das Projekt
 
@@ -25,17 +25,24 @@ Unser Ansatz:
 
 ## Mitmachen
 
-Wir laden alle ein, sich aktiv einzubringen:  
-- Öffne ein **Issue** mit Feedback oder neuen Ideen  
-- Starte einen **Pull Request** mit konkreten Änderungsvorschlägen  
-- Diskutiere mit uns über Verbesserungspotenziale
+Wir laden alle ein, sich aktiv einzubringen.
+
+So wirds gemacht:
+
+- Lies den aktuellen [Text](/lpnum_de.md)
+- Erstelle ein [GitHub Konto](https://github.com/signup)
+- Nutze die [Diskussionen](https://github.com/grueneschweiz/LPnum/discussions) für Feedback oder [neue Ideen](https://github.com/grueneschweiz/LPnum/discussions/new/choose)
+- Starte einen [Pull Request](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) mit konkreten Änderungsvorschlägen
+- &rarr; Wende dich bei Unklarheiten oder weiterführendem Feedback an gruene@gruene.ch
+
+Du kannst deine Änderungsvorschläge bis Ende Juli einbringen. Wir werden diese danach auswerten und über das weitere Vorgehen informieren
 
 ---
 
 > Für eine starke, faire und demokratische digitale Öffentlichkeit in der Schweiz. 🌿
 
 ***
-# Loi fédérale sur les plateformes numériques (LPnum)
+# Proposition de loi fédérale sur les plateformes numériques (LPnum)
 
 ## À propos du projet
 
@@ -62,11 +69,18 @@ Notre approche :
 
 ## Participez !
 
-Nous invitons toutes et tous à s'engager activement :
-- Ouvrez une **issue** pour nous faire part de vos commentaires ou de vos idées
-- Soumettez une **pull request** avec des propositions de modifications concrètes
-- Participez aux discussions pour explorer ensemble des pistes d'amélioration
+Nous invitons toutes et tous à s'engager activement .
+
+Voici comment procéder:
+- Lisez le [texte](/lpnum_fr.md) actuel
+- Créez un compte Github
+- Utilisez les [discussions](https://github.com/grueneschweiz/LPnum/discussions) pour donner votre feedback ou proposer de [nouvelles idées](https://github.com/grueneschweiz/LPnum/discussions/new/choose).
+- Soumettez une [pull request](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) avec des propositions de modifications concrètes.
+- &rarr; Si vous avez des remarques ou des questions, vous pouvez nous contacter par mail à verts@verts.ch
+
+Vous pouvez soumettre vos propositions de modification jusqu'à fin juillet. Nous les évaluerons ensuite et vous informerons de la suite des événements.
 
 ---
 
 > Pour un espace numérique fort, équitable et démocratique en Suisse. 🌿
+---

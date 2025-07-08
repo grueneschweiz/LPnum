@@ -10,8 +10,8 @@ Das PlaG enthält u.a. folgende Kernelemente:
 - Bekämpfung illegaler Inhalte und koordinierter Desinformationskampagnen
 - Transparenzpflichten für algorithmische Systeme und Werbung
 - Schutz besonders gefährdeter Gruppen wie Minderjähriger
-- Einführung eines unabhängigen Aufsichtsorgans (Plattformbeauftragter)
-- Verpflichtung ausländischer Plattformen zur juristischen Repräsentanz in der Schweiz
+- Einführung eines unabhängigen Aufsichtsorgans (Plattformbeauftragte*r)
+- Verpflichtung ausländischer Plattformen zur rechtliche Vertretung in der Schweiz
 
 ## Unser Ziel
 
